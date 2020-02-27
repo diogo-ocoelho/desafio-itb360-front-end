@@ -6,4 +6,4 @@
 
 ### Desafio
 - O desafio consiste no desenvolvimento de uma tela de preenchimento automático de proposta comercial, seguindo por base o layout;
-- [](imgs/layout.png)
+- ![](imgs/layout.png)

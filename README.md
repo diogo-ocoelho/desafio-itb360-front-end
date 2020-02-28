@@ -26,11 +26,11 @@
 - [Clique](https://codeburst.io/how-to-build-your-own-wysiwyg-editor-6002fa3f5ea8) para ver outro exemplo de editor de texto
 
 - Além disso, será necessário discriminar os produtos e serviços que farão parte da proposta comercial, incluindo-os numa tabela com informações como o nome do serviço ou produto, a quantidade, o valor unitário e um campo onde é possível adicionar um desconto.
-![](assets/images/valores.jpeg)
+![](assets/images/valores.jpg)
 
 - Assim que as informações de todos os `<inputs>` forem informados e o usuário clicar no botão **Adicionar Novo Serviço**, a linha deve ser adicionada na tabela dentro do documento de proposta comercial. O valor total de cada serviço, que corresponde ao valor unitário multiplicado pela quantidade de itens e subtraído o desconto, deve ser exibido no final de cada linha. O total somado de todos os descontos deve ser exibido na linha de **Desconto Concedido**, e o total do valor da proposta comercial deve ser exibido em **Total**. Todos os valores monetários devem estar formatados com **R$** na frente, as classes númericas (milhares, milhões, bilhões) devem ser formatados com `.` e as casas decimais com `,`, limitadas a dois dígitos. Ao clicar no botão **Apagar Último Serviço**, a última linha inserida deve ser eliminada, e os valores presentes em **Total** e **Desconto Concedido** devem ser recalculados de acordo com os serviços que ainda estão presentes na tabela.
 Abaixo um exemplo da tabela de serviços no documento de proposta comercial:
-![](assets/images/tabela.jpeg)
+![](assets/images/tabela.jpg)
 
 - No `accordion` de **Informações do Vendedor** deve haver três `<inputs>`: um para inserir o nome do vendedor, que no caso é o próprio usuário; o segundo, para informar o email do vendedor; e o terceiro, para informar o telefone do vendedor. Na proposta comercial, o telefone do vendedor deve aparecer no formato `(XX) X-XXXX-XXXX`.
 

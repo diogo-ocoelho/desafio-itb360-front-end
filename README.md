@@ -22,6 +22,7 @@
 - No `accordion` de **Dados da Empresa**, devem ser exibidos dois `<inputs>`: um para inserir o nome da empresa que receberá a proposta comercial, e o outro onde será inserido o nome do responsável dentro da empresa.
 
 - No `accordion` de **Descrição de Entregas** será necessário criar um elemento onde o usuário irá inserir o texto de descrição de produtos, serviços, diferenciais, observações, etc. que devem estar contidos na proposta comercial. Esse campo será praticamente todo texto, mas para que o usuário possa editá-lo como se estivesse usando um editor como o `Word`, você pode incorporar `libraries` de editor de texto WYSIWYG, ou usar as propriedades `contenteditable` do HTML 5 para isso. 
+![](assets/images/descricao_entregas.jpg)
 - [Clique](https://code.tutsplus.com/tutorials/create-a-wysiwyg-editor-with-the-contenteditable-attribute--cms-25657) para ver um exemplo de como criar um editor de texto
 - [Clique](https://codeburst.io/how-to-build-your-own-wysiwyg-editor-6002fa3f5ea8) para ver outro exemplo de editor de texto
 

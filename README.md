@@ -10,7 +10,7 @@
 
 - Com esse desafio de front-end queremos avaliar seus conhecimentos com `HTML`, `CSS` e `JavaScript`. Não é necessário o desenvolvimento de qualquer código para backend ou banco de dados.
 
-- Do lado esquerdo, devem ficar os `accordions` referentes aos **Dados de Empresa**, **Descrição das Entregas** e **Informações do Vendedor**. Ao clicar, o `accordion` deve se tornar ativo, exibindo na área logo abaixo os `<inputs>` onde cada uma das informações será preenchida. 
+- Do lado esquerdo, devem ficar os `accordions` referentes aos **Dados de Empresa**, **Descrição das Entregas** e **Informações do Vendedor**. Ao clicar, o `accordion` deve se tornar ativo, exibindo na área logo abaixo os `<inputs>` onde cada informação será preenchida. 
 
 - Do lado direito, deve ser exibido uma área com a pré-visualização do documento de proposta comercial. [Aqui](assets/images/commercial_proposal.html) você encontra a prévia do documento, onde estão marcados com asteriscos os campos que devem ser substituídos pelas informações digitadas nos campos à esquerda.
 

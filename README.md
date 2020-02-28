@@ -12,7 +12,7 @@
 
 - Do lado esquerdo, devem ficar os `accordions` referentes aos **Dados de Empresa**, **Descrição das Entregas** e **Informações do Vendedor**. Ao clicar, o `accordion` deve se tornar ativo, exibindo na área logo abaixo os `<inputs>` onde cada informação será preenchida. 
 
-- Do lado direito, deve ser exibida uma área com a pré-visualização do documento de proposta comercial. [Aqui](assets/images/commercial_proposal.png) você encontra a prévia do documento, onde estão marcados com asteriscos os campos que devem ser substituídos pelas informações digitadas nos campos à esquerda.
+- Do lado direito, deve ser exibida uma área com a pré-visualização do documento de proposta comercial. [Aqui](assets/images/proposta_comercial.png) você encontra a prévia do documento, onde estão marcados com asteriscos os campos que devem ser substituídos pelas informações digitadas nos campos à esquerda.
 
 - Ao final, após preencher todo o documento, o usuário deve ter a opção de clicar no botão **GERAR PROPOSTA**. Ao fazer isso, a tela deve mostrar as informações de impressão apenas da proposta comercial, com o mesmo layout exibido na pré-visualização;
 ![](assets/images/layout_impressao.jpeg)
